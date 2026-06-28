@@ -299,7 +299,7 @@ class Program
         }
 
         Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine("\n╔════════════════════ ALL STUDENTS ════════════════════╗");
+        Console.WriteLine("\n╔════════════════════ ALL STUDENTS ══════════════════╗");
         Console.ResetColor();
 
         //Loop through all Students
